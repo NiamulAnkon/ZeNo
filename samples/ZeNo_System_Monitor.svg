@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1648" height="928" viewBox="0 0 1648 928">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08090B"/><stop offset="1" stop-color="#111016"/></linearGradient>
+ <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9B6BCA"/><stop offset="1" stop-color="#54228B"/></linearGradient>
+ <linearGradient id="cyan"><stop stop-color="#63C8E8"/><stop offset="1" stop-color="#9B6BCA"/></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#191B20"/><stop offset="1" stop-color="#111316"/></linearGradient>
+ <style>
+ .f{font-family:Inter,Arial,sans-serif}.w{fill:#F5F5F7}.m{fill:#A5A5AE}.d{fill:#686B75}.s{font-size:12px}.b{font-size:15px}.l{font-size:16px;font-weight:600}.h{font-size:21px;font-weight:700}.panel{fill:url(#card);stroke:#29252F;stroke-width:1.2}.purple{fill:#B58AE0}.cyan{fill:#63C8E8}.green{fill:#22C99A}
+ </style>
+</defs>
+<rect width="1648" height="928" fill="url(#bg)"/>
+<path d="M0 700C150 640 170 780 300 730S480 650 590 700" fill="none" stroke="#9B6BCA" stroke-width="2" opacity=".2"/>
+<!-- sidebar -->
+<rect width="246" height="872" fill="#0D0E12"/><path d="M245 0V872" stroke="#29252F"/>
+<g class="f"><circle cx="66" cy="48" r="25" fill="#090A0D" stroke="url(#cyan)" stroke-width="3"/><text x="66" y="57" text-anchor="middle" font-size="28" font-weight="800" fill="#B58AE0">Z</text><text x="108" y="57" class="w" font-size="25" font-weight="700">ZeNo</text>
+<g transform="translate(20 124)"><rect width="210" height="48" rx="12" fill="#15141B"/><text x="70" y="31" class="m b">Dashboard</text></g>
+<g transform="translate(20 180)"><rect width="210" height="48" rx="12" fill="#281A38" stroke="#9B6BCA"/><rect width="4" height="48" rx="2" fill="#B58AE0"/><text x="70" y="31" class="w l">System Monitor</text></g>
+<g class="m b"><text x="70" y="260">Security Center</text><text x="70" y="315">Driver Manager</text><text x="70" y="370">Software Hub</text><text x="70" y="425">Setup Profiles</text><text x="70" y="480">Windows Toolkit</text><text x="70" y="535">Activity Center</text><text x="70" y="590">Settings</text></g>
+<g fill="none" stroke="#B58AE0" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M28 144l8-8 8 8-8 8z M28 144h16 M36 136v16"/>
+<path d="M27 204h18M36 195v18M29 200l7 4 7-4"/>
+<path d="M28 250l8-10 8 10-8 6z"/><rect x="28" y="302" width="17" height="17" rx="3"/><rect x="28" y="357" width="17" height="17" rx="3"/><circle cx="36" cy="418" r="8"/><path d="M23 435q13-15 26 0"/><path d="M27 476l17-17M27 476l-2-7 7 2"/><path d="M27 529h18M27 536h18M27 543h18"/><circle cx="36" cy="584" r="9"/>
+</g></g>
+<!-- topbar -->
+<rect x="246" width="1402" height="90" fill="#0A0B0F"/><path d="M246 89H1648" stroke="#29252F"/>
+<g class="f"><text x="291" y="55" font-size="25" fill="#B58AE0">⌁</text><text x="335" y="55" class="w h">System Monitor</text>
+<rect x="620" y="26" width="578" height="48" rx="24" fill="#15151B" stroke="#29252F"/><circle cx="649" cy="50" r="8" fill="none" stroke="#A5A5AE" stroke-width="2"/><path d="M655 56l7 7" stroke="#A5A5AE" stroke-width="2"/><text x="676" y="56" class="m b">Search hardware, processes...</text>
+<text x="1320" y="57" font-size="25" fill="#B58AE0">♧</text><circle cx="1348" cy="33" r="7" fill="#E46B70"/><circle cx="1405" cy="49" r="19" fill="#24232B" stroke="#A5A5AE"/><circle cx="1405" cy="43" r="6" fill="#A5A5AE"/><path d="M1393 60q12-16 24 0" fill="#A5A5AE"/><text x="1440" y="55" class="m b">⌄</text><path d="M1474 25v48" stroke="#29252F"/><text x="1500" y="55" class="m b">—</text><rect x="1551" y="35" width="14" height="14" fill="none" stroke="#A5A5AE"/><text x="1600" y="55" class="m b">×</text></g>
+<!-- heading -->
+<g class="f"><text x="270" y="126" class="w h">Hardware Overview</text><text x="270" y="151" class="m b">Live system performance and component information</text>
+<rect x="1430" y="108" width="196" height="39" rx="19" fill="#21172D" stroke="#51435E"/><circle cx="1452" cy="127" r="5" fill="#22C99A"/><text x="1467" y="132" fill="#B58AE0" class="s">Live monitoring</text></g>
+<!-- overview metrics -->
+<g class="f">
+<rect x="266" y="172" width="320" height="158" rx="16" class="panel"/><text x="290" y="205" class="m l">CPU USAGE</text><text x="290" y="255" class="w" font-size="36" font-weight="700">18%</text><text x="290" y="282" class="green s">● Normal</text><path d="M410 286L426 267L440 277L455 249L470 267L485 244L501 265L516 251L533 260L552 235L570 250" fill="none" stroke="#63C8E8" stroke-width="2.5"/>
+<rect x="603" y="172" width="320" height="158" rx="16" class="panel"/><text x="627" y="205" class="m l">GPU USAGE</text><text x="627" y="255" class="w" font-size="36" font-weight="700">32%</text><text x="627" y="282" class="green s">● Normal</text><path d="M747 286L763 270L777 280L792 250L807 267L822 245L837 263L852 250L869 262L888 238L907 252" fill="none" stroke="#9B6BCA" stroke-width="2.5"/>
+<rect x="940" y="172" width="320" height="158" rx="16" class="panel"/><text x="964" y="205" class="m l">MEMORY (RAM)</text><text x="964" y="255" class="w" font-size="36" font-weight="700">56%</text><text x="964" y="282" class="green s">● 8.9 GB / 16 GB used</text><rect x="964" y="298" width="270" height="8" rx="4" fill="#29252F"/><rect x="964" y="298" width="151" height="8" rx="4" fill="#9B6BCA"/>
+<rect x="1277" y="172" width="351" height="158" rx="16" class="panel"/><text x="1301" y="205" class="m l">STORAGE</text><text x="1301" y="255" class="w" font-size="36" font-weight="700">72%</text><text x="1301" y="282" class="green s">● 720 GB / 1 TB used</text><rect x="1301" y="298" width="300" height="8" rx="4" fill="#29252F"/><rect x="1301" y="298" width="216" height="8" rx="4" fill="#63C8E8"/>
+</g>
+<!-- detailed component panels -->
+<g class="f">
+<rect x="266" y="350" width="438" height="220" rx="16" class="panel"/><text x="290" y="386" class="w l">Processor Information</text><rect x="290" y="405" width="82" height="66" rx="10" fill="#21172D"/><text x="331" y="447" text-anchor="middle" font-size="30" fill="#B58AE0">▦</text><text x="390" y="424" class="w b">Intel Core Processor</text><text x="390" y="449" class="m s">Model information detected</text><text x="290" y="505" class="m s">Base speed</text><text x="660" y="505" text-anchor="end" class="w b">3.60 GHz</text><text x="290" y="535" class="m s">Logical processors</text><text x="660" y="535" text-anchor="end" class="w b">8</text>
+<rect x="721" y="350" width="438" height="220" rx="16" class="panel"/><text x="745" y="386" class="w l">Graphics Information</text><rect x="745" y="405" width="82" height="66" rx="10" fill="#17232A"/><text x="786" y="447" text-anchor="middle" font-size="30" fill="#63C8E8">▣</text><text x="845" y="424" class="w b">Graphics Processor</text><text x="845" y="449" class="m s">GPU model and driver details</text><text x="745" y="505" class="m s">Dedicated memory</text><text x="1115" y="505" text-anchor="end" class="w b">4 GB</text><text x="745" y="535" class="m s">Current temperature</text><text x="1115" y="535" text-anchor="end" class="w b">46 °C</text>
+<rect x="1176" y="350" width="452" height="220" rx="16" class="panel"/><text x="1200" y="386" class="w l">Memory Details</text><text x="1200" y="430" class="m s">Installed RAM</text><text x="1598" y="430" text-anchor="end" class="w b">16 GB</text><text x="1200" y="465" class="m s">Available memory</text><text x="1598" y="465" text-anchor="end" class="w b">7.1 GB</text><text x="1200" y="500" class="m s">Memory type</text><text x="1598" y="500" text-anchor="end" class="w b">DDR4</text><text x="1200" y="535" class="m s">Memory speed</text><text x="1598" y="535" text-anchor="end" class="w b">3200 MHz</text>
+</g>
+<!-- bottom detail -->
+<g class="f">
+<rect x="266" y="590" width="438" height="252" rx="16" class="panel"/><text x="290" y="628" class="w l">Storage Devices</text><text x="290" y="666" class="w b">System Drive (C:)</text><text x="660" y="666" text-anchor="end" class="m s">720 GB / 1 TB</text><rect x="290" y="681" width="370" height="9" rx="4" fill="#29252F"/><rect x="290" y="681" width="266" height="9" rx="4" fill="#63C8E8"/><text x="290" y="724" class="m s">Drive type</text><text x="660" y="724" text-anchor="end" class="w b">SSD</text><text x="290" y="756" class="m s">Health status</text><text x="660" y="756" text-anchor="end" class="green b">Good</text><text x="290" y="800" fill="#B58AE0" class="s">View all storage devices →</text>
+<rect x="721" y="590" width="438" height="252" rx="16" class="panel"/><text x="745" y="628" class="w l">Battery &amp; Platform</text><text x="745" y="670" class="m s">Battery status</text><text x="1115" y="670" text-anchor="end" class="w b">Plugged in / Not detected</text><text x="745" y="706" class="m s">Motherboard</text><text x="1115" y="706" text-anchor="end" class="w b">Board information</text><text x="745" y="742" class="m s">BIOS version</text><text x="1115" y="742" text-anchor="end" class="w b">Firmware details</text><text x="745" y="778" class="m s">BIOS mode</text><text x="1115" y="778" text-anchor="end" class="w b">UEFI</text><text x="745" y="817" fill="#B58AE0" class="s">View platform details →</text>
+<rect x="1176" y="590" width="452" height="252" rx="16" class="panel"/><text x="1200" y="628" class="w l">Startup Applications</text><text x="1200" y="663" class="m s">APPLICATION</text><text x="1578" y="663" text-anchor="end" class="m s">STARTUP IMPACT</text>
+<circle cx="1210" cy="694" r="6" fill="#22C99A"/><text x="1230" y="700" class="w b">Security app</text><text x="1578" y="700" text-anchor="end" fill="#22C99A" class="s">Low</text>
+<circle cx="1210" cy="731" r="6" fill="#E4B45E"/><text x="1230" y="737" class="w b">Cloud sync</text><text x="1578" y="737" text-anchor="end" fill="#E4B45E" class="s">Medium</text>
+<circle cx="1210" cy="768" r="6" fill="#22C99A"/><text x="1230" y="774" class="w b">Audio service</text><text x="1578" y="774" text-anchor="end" fill="#22C99A" class="s">Low</text>
+<text x="1200" y="817" fill="#B58AE0" class="s">Manage startup apps →</text>
+</g>
+<!-- footer -->
+<rect y="872" width="1648" height="56" fill="#0B0C10"/><path d="M0 872H1648" stroke="#29252F"/><circle cx="39" cy="900" r="13" fill="#090A0D" stroke="url(#cyan)" stroke-width="2"/><text x="39" y="906" text-anchor="middle" fill="#B58AE0" font-size="16" font-weight="700">Z</text>
+<g class="f"><text x="69" y="906" class="w b">ZeNo v1.0.0</text><path d="M160 886v28" stroke="#29252F"/><circle cx="184" cy="900" r="7" fill="#22C99A"/><text x="202" y="906" class="w b">Monitoring active</text><text x="1375" y="906" class="m b">⟳  Refresh interval: 2s</text><text x="1610" y="906" class="m b">⌃</text></g>
+</svg>

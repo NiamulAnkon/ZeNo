@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1648" height="928" viewBox="0 0 1648 928">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A0B0F"/><stop offset="1" stop-color="#111019"/></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B1D24"/><stop offset="1" stop-color="#15161C"/></linearGradient>
+ <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9B6BCA"/><stop offset="1" stop-color="#7650A8"/></linearGradient>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1648" height="928" fill="url(#bg)"/>
+<rect x="0" y="0" width="246" height="928" fill="#0D0E12"/>
+<rect x="245" y="0" width="1" height="928" fill="#29252F"/>
+
+<rect x="25" y="24" width="42" height="42" rx="12" fill="url(#purple)" stroke="none" stroke-width="1"/>
+<text x="35" y="52" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="25" font-weight="800">Z</text>
+<text x="78" y="51" fill="#F5F5F7" font-family="Inter, Segoe UI, Arial" font-size="23" font-weight="750">ZeNo</text>
+<text x="78" y="68" fill="#777481" font-family="Inter, Segoe UI, Arial" font-size="8" font-weight="700">PC COMPANION</text>
+<text x="28" y="117" fill="#686B75" font-family="Inter, Segoe UI, Arial" font-size="10" font-weight="700">WORKSPACE</text>
+<text x="31" y="154" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="17" font-weight="500">◈</text>
+<text x="59" y="154" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="500">Dashboard</text>
+<text x="31" y="203" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="17" font-weight="500">◉</text>
+<text x="59" y="203" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="500">System Monitor</text>
+<text x="31" y="252" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="17" font-weight="500">⬡</text>
+<text x="59" y="252" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="500">Security Center</text>
+<text x="31" y="301" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="17" font-weight="500">▤</text>
+<text x="59" y="301" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="500">Driver Manager</text>
+<rect x="15" y="325" width="216" height="40" rx="10" fill="#241D30" stroke="#4A3562" stroke-width="1"/>
+<rect x="15" y="325" width="3" height="40" rx="2" fill="#A879D4" stroke="none" stroke-width="1"/>
+<text x="31" y="350" fill="#C79BEA" font-family="Inter, Segoe UI, Arial" font-size="17" font-weight="600">▣</text>
+<text x="59" y="350" fill="#E8D8F5" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="650">Software Hub</text>
+<text x="31" y="399" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="17" font-weight="500">▦</text>
+<text x="59" y="399" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="500">Setup Profiles</text>
+<text x="31" y="448" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="17" font-weight="500">⚙</text>
+<text x="59" y="448" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="500">Windows Toolkit</text>
+<text x="31" y="497" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="17" font-weight="500">◷</text>
+<text x="59" y="497" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="500">Activity Center</text>
+<path d="M24 560H220" stroke="#29252F" stroke-width="1"/>
+<text x="28" y="586" fill="#686B75" font-family="Inter, Segoe UI, Arial" font-size="10" font-weight="700">PREFERENCES</text>
+<text x="31" y="625" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="17" font-weight="400">⚙</text>
+<text x="59" y="625" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="400">Settings</text>
+<rect x="17" y="815" width="212" height="88" rx="12" fill="#15171D" stroke="#29252F" stroke-width="1"/>
+<circle cx="39" cy="840" r="5" fill="#22C99A" stroke="none"/>
+<text x="54" y="844" fill="#B7C0C4" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="600">System status: Healthy</text>
+<text x="30" y="870" fill="#686B75" font-family="Inter, Segoe UI, Arial" font-size="10" font-weight="400">ZeNo v1.0.0</text>
+<text x="30" y="887" fill="#686B75" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">All services running</text>
+<text x="278" y="43" fill="#F5F5F7" font-family="Inter, Segoe UI, Arial" font-size="22" font-weight="700">Software Hub</text>
+<text x="278" y="65" fill="#8D8D98" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="400">Discover, manage and update your applications</text>
+<rect x="1040" y="22" width="330" height="42" rx="11" fill="#17191F" stroke="#29252F" stroke-width="1"/>
+<text x="1058" y="48" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="22" font-weight="400">⌕</text>
+<text x="1087" y="47" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="12" font-weight="400">Search software...</text>
+<rect x="1386" y="22" width="42" height="42" rx="11" fill="#17191F" stroke="#29252F" stroke-width="1"/>
+<text x="1398" y="49" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="400">♧</text>
+<circle cx="1418" cy="28" r="4" fill="#E46B70" stroke="none"/>
+<rect x="1440" y="22" width="178" height="42" rx="11" fill="#17191F" stroke="#29252F" stroke-width="1"/>
+<circle cx="1463" cy="43" r="13" fill="#4D3A63" stroke="none"/>
+<text x="1459" y="47" fill="#E9DDF5" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="700">Z</text>
+<text x="1485" y="40" fill="#E6E6EA" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="600">User Profile</text>
+<text x="1485" y="54" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Local account</text>
+<text x="278" y="112" fill="#F5F5F7" font-family="Inter, Segoe UI, Arial" font-size="17" font-weight="700">Discover software</text>
+<text x="278" y="133" fill="#8D8D98" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="400">Find useful apps for your PC and keep everything up to date.</text>
+<rect x="1430" y="96" width="188" height="38" rx="10" fill="url(#purple)" stroke="none" stroke-width="1"/>
+<text x="1450" y="120" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="650">＋  Browse all apps</text>
+<rect x="278" y="154" width="1340" height="150" rx="16" fill="#1A1722" stroke="#49375B" stroke-width="1"/>
+<circle cx="1510" cy="226" r="90" fill="#30213F" stroke="none"/>
+<circle cx="1510" cy="226" r="63" fill="#3D2B50" stroke="none"/>
+<circle cx="1510" cy="226" r="36" fill="#5A3C73" stroke="none"/>
+<text x="312" y="190" fill="#C49BE6" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="700">FEATURED COLLECTION</text>
+<text x="312" y="226" fill="#F7F3FA" font-family="Inter, Segoe UI, Arial" font-size="25" font-weight="750">Make your PC work smarter</text>
+<text x="312" y="250" fill="#B6AFC0" font-family="Inter, Segoe UI, Arial" font-size="12" font-weight="400">Explore trusted tools for productivity, creativity and everyday tasks.</text>
+<rect x="312" y="265" width="128" height="27" rx="8" fill="url(#purple)" stroke="none" stroke-width="1"/>
+<text x="328" y="284" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="10" font-weight="650">Explore collection</text>
+<text x="1392" y="281" fill="#D3B3EE" font-family="Inter, Segoe UI, Arial" font-size="27" font-weight="700">✦</text>
+<text x="278" y="344" fill="#F5F5F7" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700">Categories</text>
+<rect x="278" y="360" width="208" height="72" rx="12" fill="#181A20" stroke="#29252F" stroke-width="1"/>
+<rect x="291" y="376" width="40" height="40" rx="10" fill="#292133" stroke="#49365D" stroke-width="1"/>
+<text x="302" y="402" fill="#B88AE0" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="600">▦</text>
+<text x="342" y="389" fill="#E9E9ED" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="650">All software</text>
+<text x="342" y="409" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">128 apps</text>
+<rect x="502" y="360" width="208" height="72" rx="12" fill="#181A20" stroke="#29252F" stroke-width="1"/>
+<rect x="515" y="376" width="40" height="40" rx="10" fill="#292133" stroke="#49365D" stroke-width="1"/>
+<text x="526" y="402" fill="#B88AE0" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="600">✎</text>
+<text x="566" y="389" fill="#E9E9ED" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="650">Productivity</text>
+<text x="566" y="409" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">24 apps</text>
+<rect x="726" y="360" width="208" height="72" rx="12" fill="#181A20" stroke="#29252F" stroke-width="1"/>
+<rect x="739" y="376" width="40" height="40" rx="10" fill="#292133" stroke="#49365D" stroke-width="1"/>
+<text x="750" y="402" fill="#B88AE0" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="600">◉</text>
+<text x="790" y="389" fill="#E9E9ED" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="650">Utilities</text>
+<text x="790" y="409" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">31 apps</text>
+<rect x="950" y="360" width="208" height="72" rx="12" fill="#181A20" stroke="#29252F" stroke-width="1"/>
+<rect x="963" y="376" width="40" height="40" rx="10" fill="#292133" stroke="#49365D" stroke-width="1"/>
+<text x="974" y="402" fill="#B88AE0" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="600">▧</text>
+<text x="1014" y="389" fill="#E9E9ED" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="650">Media &amp; Design</text>
+<text x="1014" y="409" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">18 apps</text>
+<rect x="1174" y="360" width="208" height="72" rx="12" fill="#181A20" stroke="#29252F" stroke-width="1"/>
+<rect x="1187" y="376" width="40" height="40" rx="10" fill="#292133" stroke="#49365D" stroke-width="1"/>
+<text x="1198" y="402" fill="#B88AE0" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="600">⌘</text>
+<text x="1238" y="389" fill="#E9E9ED" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="650">Development</text>
+<text x="1238" y="409" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">22 apps</text>
+<rect x="1398" y="360" width="208" height="72" rx="12" fill="#181A20" stroke="#29252F" stroke-width="1"/>
+<rect x="1411" y="376" width="40" height="40" rx="10" fill="#292133" stroke="#49365D" stroke-width="1"/>
+<text x="1422" y="402" fill="#B88AE0" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="600">◈</text>
+<text x="1462" y="389" fill="#E9E9ED" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="650">Security</text>
+<text x="1462" y="409" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">12 apps</text>
+<text x="278" y="476" fill="#F5F5F7" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700">Popular software</text>
+<text x="278" y="496" fill="#858590" font-family="Inter, Segoe UI, Arial" font-size="10" font-weight="400">Hand-picked apps to get started</text>
+<text x="1165" y="476" fill="#B58AE0" font-family="Inter, Segoe UI, Arial" font-size="10" font-weight="650">View all  →</text>
+<rect x="278" y="510" width="206" height="144" rx="13" fill="#191B21" stroke="#29252F" stroke-width="1"/>
+<rect x="292" y="526" width="42" height="42" rx="10" fill="#252E3A" stroke="#29252F" stroke-width="1"/>
+<text x="305" y="554" fill="#79C8EA" font-family="Inter, Segoe UI, Arial" font-size="19" font-weight="750">V</text>
+<text x="344" y="541" fill="#F1F1F4" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="650">VLC Media Player</text>
+<text x="344" y="559" fill="#858590" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Video &amp; audio</text>
+<text x="292" y="590" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Open-source media player</text>
+<path d="M292 604H470" stroke="#29252F" stroke-width="1"/>
+<text x="292" y="632" fill="#22C99A" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="650">Free</text>
+<rect x="412" y="614" width="58" height="26" rx="7" fill="#2B2336" stroke="#5A4073" stroke-width="1"/>
+<text x="427" y="632" fill="#D7B9F0" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="650">Install</text>
+<rect x="500" y="510" width="206" height="144" rx="13" fill="#191B21" stroke="#29252F" stroke-width="1"/>
+<rect x="514" y="526" width="42" height="42" rx="10" fill="#303025" stroke="#29252F" stroke-width="1"/>
+<text x="527" y="554" fill="#C5C17B" font-family="Inter, Segoe UI, Arial" font-size="19" font-weight="750">7</text>
+<text x="566" y="541" fill="#F1F1F4" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="650">7-Zip</text>
+<text x="566" y="559" fill="#858590" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Utilities</text>
+<text x="514" y="590" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">File archiver and compression tool</text>
+<path d="M514 604H692" stroke="#29252F" stroke-width="1"/>
+<text x="514" y="632" fill="#22C99A" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="650">Free</text>
+<rect x="634" y="614" width="58" height="26" rx="7" fill="#2B2336" stroke="#5A4073" stroke-width="1"/>
+<text x="649" y="632" fill="#D7B9F0" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="650">Install</text>
+<rect x="722" y="510" width="206" height="144" rx="13" fill="#191B21" stroke="#29252F" stroke-width="1"/>
+<rect x="736" y="526" width="42" height="42" rx="10" fill="#33283C" stroke="#29252F" stroke-width="1"/>
+<text x="749" y="554" fill="#C49BE6" font-family="Inter, Segoe UI, Arial" font-size="19" font-weight="750">G</text>
+<text x="788" y="541" fill="#F1F1F4" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="650">GIMP</text>
+<text x="788" y="559" fill="#858590" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Media &amp; Design</text>
+<text x="736" y="590" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Image editing and creative tools</text>
+<path d="M736 604H914" stroke="#29252F" stroke-width="1"/>
+<text x="736" y="632" fill="#22C99A" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="650">Free</text>
+<rect x="856" y="614" width="58" height="26" rx="7" fill="#2B2336" stroke="#5A4073" stroke-width="1"/>
+<text x="871" y="632" fill="#D7B9F0" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="650">Install</text>
+<rect x="944" y="510" width="206" height="144" rx="13" fill="#191B21" stroke="#29252F" stroke-width="1"/>
+<rect x="958" y="526" width="42" height="42" rx="10" fill="#25343A" stroke="#29252F" stroke-width="1"/>
+<text x="971" y="554" fill="#7DC7D6" font-family="Inter, Segoe UI, Arial" font-size="19" font-weight="750">C</text>
+<text x="1010" y="541" fill="#F1F1F4" font-family="Inter, Segoe UI, Arial" font-size="11" font-weight="650">Code Editor</text>
+<text x="1010" y="559" fill="#858590" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Development</text>
+<text x="958" y="590" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">A lightweight code editor</text>
+<path d="M958 604H1136" stroke="#29252F" stroke-width="1"/>
+<text x="958" y="632" fill="#22C99A" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="650">Free</text>
+<rect x="1078" y="614" width="58" height="26" rx="7" fill="#2B2336" stroke="#5A4073" stroke-width="1"/>
+<text x="1093" y="632" fill="#D7B9F0" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="650">Install</text>
+<rect x="1202" y="510" width="416" height="314" rx="14" fill="#191B21" stroke="#29252F" stroke-width="1"/>
+<text x="1224" y="540" fill="#F5F5F7" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700">Installation queue</text>
+<rect x="1535" y="522" width="60" height="24" rx="7" fill="#2B2336" stroke="#5A4073" stroke-width="1"/>
+<text x="1548" y="539" fill="#CDA8ED" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="650">2 items</text>
+<text x="1224" y="565" fill="#858590" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Track downloads and installations</text>
+<rect x="1222" y="583" width="376" height="92" rx="10" fill="#15171D" stroke="#29252F" stroke-width="1"/>
+<rect x="1237" y="599" width="38" height="38" rx="9" fill="#24323B" stroke="#29252F" stroke-width="1"/>
+<text x="1249" y="625" fill="#7BCBEA" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="700">V</text>
+<text x="1287" y="607" fill="#EDEDF1" font-family="Inter, Segoe UI, Arial" font-size="10" font-weight="650">VLC Media Player</text>
+<text x="1287" y="624" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Downloading • 68%</text>
+<rect x="1287" y="637" width="274" height="6" rx="3" fill="#30313A" stroke="none" stroke-width="1"/>
+<rect x="1287" y="637" width="186" height="6" rx="3" fill="#9B6BCA" stroke="none" stroke-width="1"/>
+<text x="1570" y="650" fill="#C8A4E7" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="650">68%</text>
+<rect x="1222" y="687" width="376" height="92" rx="10" fill="#15171D" stroke="#29252F" stroke-width="1"/>
+<rect x="1237" y="703" width="38" height="38" rx="9" fill="#302A3A" stroke="#29252F" stroke-width="1"/>
+<text x="1249" y="729" fill="#C6C17E" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="700">7</text>
+<text x="1287" y="711" fill="#EDEDF1" font-family="Inter, Segoe UI, Arial" font-size="10" font-weight="650">7-Zip</text>
+<text x="1287" y="728" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Waiting in queue</text>
+<rect x="1287" y="741" width="274" height="6" rx="3" fill="#30313A" stroke="none" stroke-width="1"/>
+<text x="1287" y="765" fill="#858590" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Queued</text>
+<text x="278" y="698" fill="#F5F5F7" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700">Installed applications</text>
+<text x="278" y="718" fill="#858590" font-family="Inter, Segoe UI, Arial" font-size="10" font-weight="400">Manage apps already on your PC</text>
+<rect x="278" y="734" width="880" height="90" rx="12" fill="#191B21" stroke="#29252F" stroke-width="1"/>
+<text x="300" y="758" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="8" font-weight="700">APPLICATION</text>
+<text x="620" y="758" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="8" font-weight="700">VERSION</text>
+<text x="780" y="758" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="8" font-weight="700">STATUS</text>
+<text x="1015" y="758" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="8" font-weight="700">ACTION</text>
+<path d="M296 768H1140" stroke="#29252F" stroke-width="1"/>
+<text x="300" y="793" fill="#E7E7EB" font-family="Inter, Segoe UI, Arial" font-size="10" font-weight="600">◉  Browser</text>
+<text x="620" y="793" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">124.0.0</text>
+<circle cx="790" cy="789" r="4" fill="#22C99A" stroke="none"/>
+<text x="802" y="793" fill="#A5A5AE" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Up to date</text>
+<text x="1045" y="793" fill="#B58AE0" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="600">Manage  →</text>
+<rect x="1202" y="838" width="416" height="0" rx="0" fill="none" stroke="none" stroke-width="0"/>
+<path d="M266 872H1628" stroke="#29252F" stroke-width="1"/>
+<text x="278" y="901" fill="#686B75" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">ZeNo v1.0.0</text>
+<circle cx="1435" cy="897" r="4" fill="#22C99A" stroke="none"/>
+<text x="1448" y="901" fill="#777987" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="400">Background services running</text>
+<text x="1590" y="901" fill="#22C99A" font-family="Inter, Segoe UI, Arial" font-size="9" font-weight="600">●  Ready</text>
+</svg>

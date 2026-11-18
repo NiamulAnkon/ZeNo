@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1648" height="928" viewBox="0 0 1648 928">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08090B"/><stop offset="1" stop-color="#111016"/></linearGradient>
+  <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9B6BCA"/><stop offset="1" stop-color="#54228B"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#63C8E8"/><stop offset="1" stop-color="#9B6BCA"/></linearGradient>
+  <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#19131F"/><stop offset=".55" stop-color="#101116"/><stop offset="1" stop-color="#101D25"/></linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#191B20"/><stop offset="1" stop-color="#111316"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .font{font-family:Inter,Arial,sans-serif}.white{fill:#F5F5F7}.muted{fill:#A5A5AE}.dim{fill:#686B75}
+    .small{font-size:12px}.body{font-size:15px}.label{font-size:16px;font-weight:600}.heading{font-size:21px;font-weight:700}
+    .panel{fill:url(#card);stroke:#29252F;stroke-width:1.2}.line{stroke:#29252F;stroke-width:1}
+  </style>
+</defs>
+<!-- background -->
+<rect width="1648" height="928" fill="url(#bg)"/>
+<path d="M0 700 C150 640 170 780 300 730 S480 650 590 700" fill="none" stroke="#9B6BCA" stroke-width="2" opacity=".22"/>
+<path d="M1100 0 C970 90 1020 140 900 205" fill="none" stroke="#63C8E8" stroke-width="2" opacity=".12"/>
+<!-- sidebar -->
+<rect x="0" y="0" width="246" height="872" fill="#0D0E12"/>
+<path d="M245 0V872" stroke="#29252F"/>
+<g class="font">
+  <circle cx="66" cy="48" r="25" fill="#090A0D" stroke="url(#cyan)" stroke-width="3"/>
+  <text x="66" y="57" text-anchor="middle" font-size="28" font-weight="800" fill="#B58AE0">Z</text>
+  <text x="108" y="57" class="white" font-size="25" font-weight="700">ZeNo</text>
+  <g transform="translate(20 124)">
+    <rect width="210" height="58" rx="13" fill="#281A38" stroke="#9B6BCA"/>
+    <rect width="4" height="58" rx="2" fill="#B58AE0"/>
+    <path d="M22 31L33 20L44 31V43H36V34H30V43H22Z" fill="#F5F5F7"/>
+    <text x="70" y="36" class="white label">Dashboard</text>
+  </g>
+  <g class="muted body">
+    <text x="70" y="229">System Monitor</text><text x="70" y="284">Security Center</text>
+    <text x="70" y="339">Driver Manager</text><text x="70" y="394">Software Hub</text>
+    <text x="70" y="449">Setup Profiles</text><text x="70" y="504">Windows Toolkit</text>
+    <text x="70" y="559">Activity Center</text><text x="70" y="614">Settings</text>
+  </g>
+  <g fill="none" stroke="#B58AE0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M28 218l8-8 8 8-8 8z M28 218h16 M36 210v16"/>
+    <path d="M27 273l9-14 9 14-9 6z"/><path d="M28 327h17v17H28z M32 331h9v9h-9z"/>
+    <rect x="28" y="380" width="17" height="17" rx="3"/><path d="M31 388h11M36 383v11"/>
+    <circle cx="36" cy="438" r="8"/><path d="M23 454q13-15 26 0"/>
+    <path d="M27 496l17-17M27 496l-2-7 7 2M44 479l2 7-7-2"/>
+    <path d="M27 552h18M27 559h18M27 566h18"/><circle cx="31" cy="552" r="2" fill="#B58AE0"/>
+    <circle cx="36" cy="606" r="9"/><path d="M36 593v4M36 615v4M23 606h4M45 606h4"/>
+  </g>
+</g>
+<!-- top bar -->
+<rect x="246" y="0" width="1402" height="90" fill="#0A0B0F" opacity=".96"/>
+<path d="M246 89H1648" class="line"/>
+<g class="font">
+  <text x="291" y="54" font-size="25" fill="#B58AE0">⌂</text><text x="335" y="55" class="white heading">Dashboard</text>
+  <rect x="620" y="26" width="578" height="48" rx="24" fill="#15151B" stroke="#29252F"/>
+  <circle cx="649" cy="50" r="8" fill="none" stroke="#A5A5AE" stroke-width="2"/><path d="M655 56l7 7" stroke="#A5A5AE" stroke-width="2"/>
+  <text x="676" y="56" class="muted body">Search anything... (Ctrl + K)</text>
+  <text x="1320" y="57" font-size="25" fill="#B58AE0">♧</text><circle cx="1348" cy="33" r="7" fill="#E46B70"/>
+  <circle cx="1405" cy="49" r="19" fill="#24232B" stroke="#A5A5AE"/><circle cx="1405" cy="43" r="6" fill="#A5A5AE"/><path d="M1393 60q12-16 24 0" fill="#A5A5AE"/>
+  <text x="1440" y="55" class="muted body">⌄</text>
+  <path d="M1474 25v48" class="line"/><text x="1500" y="55" class="muted body">—</text><rect x="1551" y="35" width="14" height="14" fill="none" stroke="#A5A5AE"/><text x="1600" y="55" class="muted body">×</text>
+</g>
+<!-- main content -->
+<!-- hero -->
+<rect x="266" y="115" width="579" height="225" rx="18" fill="url(#hero)" stroke="#29252F"/>
+<path d="M266 170 C340 120 370 120 450 115" fill="none" stroke="#9B6BCA" stroke-width="3" opacity=".65"/>
+<path d="M700 340 C760 300 790 300 845 270" fill="none" stroke="#63C8E8" stroke-width="3" opacity=".45"/>
+<circle cx="410" cy="228" r="65" fill="#08090B" stroke="url(#cyan)" stroke-width="6" filter="url(#glow)"/>
+<text x="410" y="248" text-anchor="middle" font-family="Arial" font-size="65" font-weight="800" fill="#B58AE0">Z</text>
+<g class="font"><text x="528" y="184" class="white" font-size="27" font-weight="700">DESKTOP-KAWSAR</text>
+<text x="528" y="220" class="muted body">▦  Windows 10 Pro 64-bit</text>
+<circle cx="548" cy="270" r="16" fill="#22C99A"/><path d="M541 270l5 5 9-11" fill="none" stroke="#071A14" stroke-width="3"/>
+<text x="578" y="276" fill="#22C99A" font-size="17" font-weight="700">System is healthy!</text>
+<text x="578" y="303" class="muted body">Everything looks good.</text></g>
+<!-- metric cards -->
+<g class="font">
+  <g><rect x="865" y="115" width="175" height="225" rx="17" class="panel"/><text x="890" y="165" fill="#63C8E8" font-size="30">▦</text><text x="890" y="207" class="white label">CPU</text><text x="890" y="250" class="white" font-size="27" font-weight="700">18%</text><path d="M882 307L895 291L906 299L920 279L932 293L946 280L959 298L973 274L987 292L1001 280L1017 289L1030 275" fill="none" stroke="#63C8E8" stroke-width="2.5"/></g>
+  <g><rect x="1058" y="115" width="176" height="225" rx="17" class="panel"/><text x="1083" y="165" fill="#9B6BCA" font-size="30">▣</text><text x="1083" y="207" class="white label">GPU</text><text x="1083" y="250" class="white" font-size="27" font-weight="700">32%</text><path d="M1075 307L1088 295L1100 301L1114 283L1127 296L1140 280L1153 294L1167 276L1181 291L1195 280L1208 290L1224 274" fill="none" stroke="#9B6BCA" stroke-width="2.5"/></g>
+  <g><rect x="1254" y="115" width="176" height="225" rx="17" class="panel"/><text x="1279" y="165" fill="#22C99A" font-size="30">▤</text><text x="1279" y="207" class="white label">RAM</text><text x="1279" y="250" class="white" font-size="27" font-weight="700">56%</text><path d="M1271 307L1284 294L1298 299L1312 282L1325 296L1339 279L1352 292L1366 276L1380 291L1394 280L1408 288L1420 275" fill="none" stroke="#22C99A" stroke-width="2.5"/></g>
+  <g><rect x="1450" y="115" width="178" height="225" rx="17" class="panel"/><text x="1475" y="165" fill="#8E9EFF" font-size="30">▤</text><text x="1475" y="207" class="white label">Storage</text><text x="1475" y="250" class="white" font-size="27" font-weight="700">72%</text><rect x="1475" y="290" width="128" height="12" rx="6" fill="#29252F"/><rect x="1475" y="290" width="92" height="12" rx="6" fill="#9B6BCA"/></g>
+</g>
+<!-- middle cards -->
+<g class="font">
+  <rect x="266" y="365" width="372" height="236" rx="17" class="panel"/>
+  <text x="292" y="405" fill="#63C8E8" font-size="25">∿</text><text x="333" y="405" class="white label">System Health Overview</text>
+  <circle cx="365" cy="500" r="58" fill="none" stroke="#29252F" stroke-width="13"/><circle cx="365" cy="500" r="58" fill="none" stroke="url(#cyan)" stroke-width="13" stroke-dasharray="330 365" stroke-linecap="round" transform="rotate(-90 365 500)"/>
+  <text x="365" y="500" text-anchor="middle" class="white" font-size="30" font-weight="700">92</text><text x="365" y="525" text-anchor="middle" class="muted body">/100</text>
+  <g class="body"><text x="450" y="465" fill="#22C99A">●</text><text x="472" y="465" class="muted">Performance</text><text x="570" y="465" fill="#22C99A">Excellent</text>
+  <text x="450" y="500" fill="#22C99A">●</text><text x="472" y="500" class="muted">Stability</text><text x="570" y="500" fill="#22C99A">Excellent</text>
+  <text x="450" y="535" fill="#22C99A">●</text><text x="472" y="535" class="muted">Security</text><text x="570" y="535" fill="#22C99A">Good</text>
+  <text x="450" y="570" fill="#22C99A">●</text><text x="472" y="570" class="muted">Overall Health</text><text x="570" y="570" fill="#22C99A">Excellent</text></g>
+  <rect x="657" y="365" width="328" height="236" rx="17" class="panel"/>
+  <text x="683" y="405" fill="#63C8E8" font-size="25">⬟</text><text x="724" y="405" class="white label">Security Status</text>
+  <rect x="881" y="382" width="83" height="27" rx="14" fill="#12352D" stroke="#22C99A"/><text x="897" y="401" fill="#22C99A" class="small">● Secure</text>
+  <g class="body"><text x="684" y="460" fill="#63C8E8">▦</text><text x="730" y="460" class="muted">Microsoft Defender</text><text x="935" y="460" text-anchor="end" fill="#22C99A">On</text>
+  <text x="684" y="497" fill="#E46B70">▤</text><text x="730" y="497" class="muted">Firewall</text><text x="935" y="497" text-anchor="end" fill="#22C99A">On</text>
+  <text x="684" y="534" fill="#63C8E8">⟳</text><text x="730" y="534" class="muted">Windows Update</text><text x="935" y="534" text-anchor="end" fill="#22C99A">Up to date</text>
+  <text x="684" y="571" fill="#B58AE0">▣</text><text x="730" y="571" class="muted">Secure Boot</text><text x="935" y="571" text-anchor="end" fill="#22C99A">On</text></g>
+  <rect x="1004" y="365" width="308" height="236" rx="17" class="panel"/>
+  <text x="1030" y="405" fill="#B58AE0" font-size="25">⚙</text><text x="1070" y="405" class="white label">Driver Status</text>
+  <rect x="1191" y="382" width="103" height="27" rx="14" fill="#281A38"/><text x="1205" y="401" fill="#B58AE0" class="small">↓ Up to date</text>
+  <circle cx="1158" cy="461" r="23" fill="#22C99A"/><path d="M1148 461l7 7 13-16" fill="none" stroke="#071A14" stroke-width="4"/>
+  <text x="1158" y="507" text-anchor="middle" class="white label">All drivers are up to date!</text><text x="1158" y="533" text-anchor="middle" class="muted small">Last checked: Today, 04:20 AM</text>
+  <rect x="1060" y="552" width="196" height="36" rx="18" fill="#24232B" stroke="#51435E"/><text x="1158" y="575" text-anchor="middle" class="white small">⟳  Check for Updates</text>
+  <rect x="1330" y="365" width="298" height="236" rx="17" class="panel"/>
+  <text x="1357" y="405" fill="#B58AE0" font-size="25">↓</text><text x="1394" y="405" class="white label">Available Updates</text>
+  <circle cx="1597" cy="393" r="15" fill="#6C35A0"/><text x="1597" y="398" text-anchor="middle" class="white small">2</text>
+  <text x="1358" y="462" fill="#63C8E8" font-size="27">▦</text><text x="1402" y="456" class="white body">Windows 10 Update</text><text x="1402" y="478" class="muted small">Size: 4.8 GB</text>
+  <text x="1358" y="523" fill="#22C99A" font-size="27">▣</text><text x="1402" y="517" class="white body">NVIDIA Graphics Driver</text><text x="1402" y="539" class="muted small">Size: 620 MB</text>
+  <rect x="1350" y="555" width="258" height="37" rx="18" fill="url(#purple)"/><text x="1479" y="579" text-anchor="middle" class="white body">↓  Install All</text>
+</g>
+<!-- bottom panels -->
+<g class="font">
+  <rect x="266" y="626" width="735" height="216" rx="17" class="panel"/>
+  <text x="292" y="666" fill="#63C8E8" font-size="25">◷</text><text x="335" y="666" class="white label">Recent Activity</text><text x="906" y="666" fill="#63C8E8" class="body">View All →</text>
+  <g class="body"><text x="294" y="704" fill="#22C99A">●</text><text x="335" y="704" class="muted">System scan completed successfully</text><text x="963" y="704" text-anchor="end" class="muted small">2 minutes ago</text>
+  <text x="294" y="737" fill="#63C8E8">●</text><text x="335" y="737" class="muted">Driver update installed: NVIDIA Graphics Driver</text><text x="963" y="737" text-anchor="end" class="muted small">5 minutes ago</text>
+  <text x="294" y="770" fill="#9B6BCA">●</text><text x="335" y="770" class="muted">Downloaded: Windows 10 Update</text><text x="963" y="770" text-anchor="end" class="muted small">8 minutes ago</text>
+  <text x="294" y="803" fill="#22C99A">●</text><text x="335" y="803" class="muted">Temporary files cleaned (2.1 GB freed)</text><text x="963" y="803" text-anchor="end" class="muted small">1 hour ago</text>
+  <rect x="1020" y="626" width="608" height="216" rx="17" fill="url(#hero)" stroke="#29252F"/>
+  <path d="M1020 810C1110 740 1140 830 1230 842M1628 660C1510 700 1560 750 1470 842" fill="none" stroke="#9B6BCA" stroke-width="2" opacity=".5"/>
+  <circle cx="1180" cy="734" r="55" fill="#090A0D" stroke="url(#cyan)" stroke-width="5" filter="url(#glow)"/><text x="1180" y="754" text-anchor="middle" font-size="60" font-weight="800" fill="#B58AE0">Z</text>
+  <text x="1320" y="713" class="white" font-size="34" font-weight="700">ZeNo</text><text x="1320" y="746" class="white body">All-in-One Windows PC Utility</text>
+  <text x="1320" y="779" fill="#B58AE0" class="body">Manage  •  Optimize  •  Secure</text>
+  <rect x="1320" y="797" width="145" height="30" rx="15" fill="#21172D" stroke="#51435E"/><text x="1392" y="817" text-anchor="middle" fill="#B58AE0" class="small">Version 1.0.0  ⓘ</text>
+</g>
+<!-- footer -->
+<rect x="0" y="872" width="1648" height="56" fill="#0B0C10"/><path d="M0 872H1648" class="line"/>
+<circle cx="39" cy="900" r="13" fill="#090A0D" stroke="url(#cyan)" stroke-width="2"/><text x="39" y="906" text-anchor="middle" fill="#B58AE0" font-size="16" font-weight="700">Z</text>
+<g class="font"><text x="69" y="906" class="white body">ZeNo v1.0.0</text><path d="M160 886v28" class="line"/><circle cx="184" cy="900" r="7" fill="#22C99A"/><text x="202" y="906" class="white body">Ready</text>
+<text x="1375" y="906" class="muted body">⚙  No background tasks running</text><text x="1610" y="906" class="muted body">⌃</text></g>
+</svg>
